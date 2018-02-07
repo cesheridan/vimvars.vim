@@ -1,0 +1,2 @@
+# vimvars.vim
+A letwin
